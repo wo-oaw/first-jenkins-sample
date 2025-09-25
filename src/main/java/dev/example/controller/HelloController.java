@@ -10,6 +10,8 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "Hello Jenkins!!";
+//        return "Hello Jenkins!!";
+        return "Day26 - 12 : setting spring server test";
     }
+
 }
